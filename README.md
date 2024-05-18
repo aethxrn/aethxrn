@@ -1,5 +1,5 @@
 <h1>Hello 👋, I'm Abieza!</h1>
-<h3>A passionate software developer based in bogor</h3>
+<h3>A software developer based in bogor</h3>
 
 - 🌱 I’m currently learning **GreenSock**
 
