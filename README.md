@@ -4,5 +4,5 @@
 
 - 👨‍💻 All of my projects are available at [https://abieza.netlify.app/](https://abieza.netlify.app/)
 
-- 📝 I draw pixel artworks on [https://www.artstation.com/kokotofu](https://www.artstation.com/kokotofu)
+- 🎨 I draw pixel artworks on [https://www.artstation.com/kokotofu](https://www.artstation.com/kokotofu)
 
