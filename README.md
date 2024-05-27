@@ -1,6 +1,6 @@
 <h1>👋 Hello, I'm Abieza!</h1>
 
-- 🔭 I’m currently working on **Graphic Design Implementation on Web Design**
+- 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **GreenSock**
 
