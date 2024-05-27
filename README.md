@@ -1,4 +1,4 @@
-<h1>Hello 👋, I'm Abieza!</h1>
+<h1>👋 Hello, I'm Abieza!</h1>
 
 - 🌱 I’m currently learning **GreenSock**
 
