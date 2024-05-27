@@ -7,5 +7,3 @@
 - 👨‍💻 I make free user interface elements on [https://uiverse.io/profile/TheAbieza](https://uiverse.io/profile/TheAbieza)
 
 - 🎨 I draw pixel artworks on [https://spacewyvern.artstation.com/](https://spacewyvern.artstation.com/)
-
--end-
