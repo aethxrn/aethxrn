@@ -2,7 +2,7 @@
 
 - 🛠️ I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **GreenSock**
+- 🌱 I’m currently learning **Vue.js**
 
 - 💾 All of my projects are available at [https://abieza.netlify.app/](https://abieza.netlify.app/)
 
