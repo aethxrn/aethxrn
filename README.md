@@ -1,8 +1,8 @@
 <h1>👋 Hello, I'm Anan!</h1>
 
-- 🛠️ I’m currently working on **Web Design**
+- 🛠️ I’m currently working on **Web Design**.
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **Figma**.
 
 - 💾 All of my projects are available at [https://abieza.netlify.app/](https://abieza.netlify.app/)
 
